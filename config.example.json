@@ -1,0 +1,12 @@
+{
+    "telegram_bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "telegram_channel_id": "@your_channel_or_group",
+    "affiliate_sub_id": "aff_deal_pro",
+    "affiliate_platform": "shopee",
+    "custom_affiliate_prefix": "https://s.shopee.vn/universal-link?sub_id=",
+    "min_discount_percent": 30,
+    "check_interval_seconds": 1800,
+    "max_posts_per_cycle": 3,
+    "enable_mock_fallback": true,
+    "channel_footer": "🔔 Bật thông báo kênh để săn thêm nhiều deal sốc mỗi ngày!"
+}

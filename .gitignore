@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment & sensitive configuration
+config.json
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+deals_history.db
+
+# OS files
+.DS_Store
+Thumbs.db
